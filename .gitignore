@@ -45,4 +45,4 @@ node_modules
 .flooignore
 
 ## API keys
-client/env/config.js
+client-example/env/config.js
