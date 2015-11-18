@@ -1,0 +1,9 @@
+{
+  "name": "backbone playground",
+  "version": "0.0.0",
+  "description": "learning backbone",
+  "scripts": {
+    "postinstall": "bower i"
+  },
+  "author": "Polina Soshnin"
+}
